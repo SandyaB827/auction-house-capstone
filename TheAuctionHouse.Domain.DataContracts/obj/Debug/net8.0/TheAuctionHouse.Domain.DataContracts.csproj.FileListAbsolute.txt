@@ -1,0 +1,15 @@
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.csproj.AssemblyReference.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.AssemblyInfoInputs.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.AssemblyInfo.cs
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.deps.json
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAucti.E1551ABB.Up2Date
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\refint\TheAuctionHouse.Domain.DataContracts.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\ref\TheAuctionHouse.Domain.DataContracts.dll

@@ -1,0 +1,17 @@
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\bin\Debug\net8.0\TheAuctionHouse.Data.EFCore.InMemory.deps.json
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\bin\Debug\net8.0\TheAuctionHouse.Data.EFCore.InMemory.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\bin\Debug\net8.0\TheAuctionHouse.Data.EFCore.InMemory.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.InMemory.csproj.AssemblyReference.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.InMemory.AssemblyInfoInputs.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.InMemory.AssemblyInfo.cs
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\obj\Debug\net8.0\TheAucti.D0525B76.Up2Date
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.InMemory.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\obj\Debug\net8.0\refint\TheAuctionHouse.Data.EFCore.InMemory.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.InMemory.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Data.EFCore.InMemory\obj\Debug\net8.0\ref\TheAuctionHouse.Data.EFCore.InMemory.dll
